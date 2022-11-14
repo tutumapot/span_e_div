@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-size: 18px;
+}
+
+
+/* podemos colocar .sp e .di juntos como a sintax abaixo, que seria a mesma coisa que fazer um para cad  */
+.sp,.di
+{
+  margin:10px;
+}
+
+img{
+  width: 20%;
+}
